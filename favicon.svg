@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- 電箱主體 -->
+  <rect x="18" y="22" width="64" height="58" rx="4" fill="#4a4a4a"/>
+  <!-- 箱門面板 -->
+  <rect x="22" y="26" width="56" height="50" rx="2" fill="#5a5a5a"/>
+  <!-- 門縫線 -->
+  <line x1="50" y1="26" x2="50" y2="76" stroke="#3a3a3a" stroke-width="2"/>
+  <!-- 鉸鏈左 -->
+  <rect x="23" y="34" width="5" height="8" rx="1" fill="#888"/>
+  <rect x="23" y="52" width="5" height="8" rx="1" fill="#888"/>
+  <!-- 把手右 -->
+  <rect x="53" y="48" width="5" height="6" rx="2" fill="#f0c040"/>
+  <!-- 警告閃電符號 -->
+  <polygon points="45,33 38,50 46,50 41,67 54,47 46,47 52,33" fill="#f0c040"/>
+  <!-- 地面底座 -->
+  <rect x="14" y="78" width="72" height="6" rx="2" fill="#888"/>
+</svg>
